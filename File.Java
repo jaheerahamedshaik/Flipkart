@@ -1,1 +1,1 @@
-This is the Java file
+This file contains of Java content 
